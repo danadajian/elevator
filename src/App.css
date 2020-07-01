@@ -13,23 +13,12 @@
   color: white;
 }
 
-.Floors {
-  display: flex;
-  flex-direction: column;
-  height: 75vmin;
-  justify-content: space-evenly;
-}
-
 .Floor {
   background-color: black;
   color: red;
   font-family: serif;
   width: 2em;
   margin-bottom: 1em;
-}
-
-.Floor-button {
-
 }
 
 .Request-elevator {
